@@ -1,11 +1,6 @@
 import java.util.LinkedList;
 import java.util.ArrayDeque;
 
-// 2. Реализуйте очередь с помощью LinkedList со следующими методами:
-// enqueue() - помещает элемент в конец очереди, 
-// dequeue() - возвращает первый элемент из очереди и удаляет его, 
-// first() - возвращает первый элемент из очереди, не удаляя.
-
 public class HW4_2__Stapenova {
 
     public static void main(String[] args) {
